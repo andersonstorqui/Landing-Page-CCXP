@@ -94,6 +94,11 @@ header {
   padding-left: 25px;
   display: flex;
   align-items: center;
+  justify-content: space-around;
+}
+
+.ticket-img {
+  width: 160px;
 }
 
 button {
